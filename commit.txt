@@ -1,0 +1,9 @@
+git add .
+
+git commit -m "description de la modif"
+
+git push 
+
+
+
+git pull
